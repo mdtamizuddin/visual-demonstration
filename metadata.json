@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous AI Coding IDE",
+  "description": "Visual simulation of an autonomous AI developer actively coding, refactoring, and running tests in VS Code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
